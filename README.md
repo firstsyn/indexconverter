@@ -8,21 +8,16 @@ layout that can be easily printed and used during the open book cert exam.
 
 Parameters
 ----------
-csvfile : str
-  Name of index CSV file to convert to .docx.
+csvfile : str – Name of index CSV file to convert to .docx.
 
 Output
 ------
-<csvfile>.docx
-  Word document created from CSV index file; created in directory script is run from.
+<csvfile>.docx – Word document created from CSV index file; created in directory script is run from.
 
 Requires
 --------
-python-docx
-  https://python-docx.readthedocs.io/en/latest/
-
+python-docx – https://python-docx.readthedocs.io/en/latest/
 
 Format
 ------
-csvfile
-  Comma-separated data columns: TOPIC, BK#, PG#, COMMENTS
+csvfile – Comma-separated data columns: TOPIC, BK#, PG#, COMMENTS
