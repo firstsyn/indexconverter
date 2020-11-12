@@ -20,10 +20,9 @@ Requires
 --------
 python-docx
   https://python-docx.readthedocs.io/en/latest/
-  https://buildmedia.readthedocs.org/media/pdf/python-docx/latest/python-docx.pdf
+
 
 Format
 ------
 csvfile
   Comma-separated data columns: TOPIC, BK#, PG#, COMMENTS
-  
